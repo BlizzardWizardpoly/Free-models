@@ -1,0 +1,3553 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<model>
+  <Item class="Model">
+    <Properties>
+      <vector3 name="Position">
+        <X>144.0000</X>
+        <Y>2.5000</Y>
+        <Z>96.5346</Z>
+      </vector3>
+      <vector3 name="Rotation">
+        <X>0.0000</X>
+        <Y>0.0000</Y>
+        <Z>0.0000</Z>
+      </vector3>
+      <vector3 name="LocalPosition">
+        <X>144.0000</X>
+        <Y>2.5000</Y>
+        <Z>96.5346</Z>
+      </vector3>
+      <vector3 name="LocalRotation">
+        <X>0.0000</X>
+        <Y>0.0000</Y>
+        <Z>0.0000</Z>
+      </vector3>
+      <vector3 name="Size">
+        <X>1.0000</X>
+        <Y>1.0000</Y>
+        <Z>1.0000</Z>
+      </vector3>
+      <vector3 name="LocalSize">
+        <X>1.0000</X>
+        <Y>1.0000</Y>
+        <Z>1.0000</Z>
+      </vector3>
+      <string name="Name">Model</string>
+    </Properties>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4325</R>
+          <G>0.4325</G>
+          <B>0.4325</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">2</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>112.5000</X>
+          <Y>1.0000</Y>
+          <Z>76.0000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>-31.5000</X>
+          <Y>-1.5000</Y>
+          <Z>-20.5346</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>5.0000</X>
+          <Y>2.0000</Y>
+          <Z>4.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>5.0000</X>
+          <Y>2.0000</Y>
+          <Z>4.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4836</R>
+          <G>0.4564</G>
+          <B>0.4564</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>128.5000</X>
+          <Y>1.0000</Y>
+          <Z>73.0000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>-15.5000</X>
+          <Y>-1.5000</Y>
+          <Z>-23.5346</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>19.0000</X>
+          <Y>2.0000</Y>
+          <Z>2.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>19.0000</X>
+          <Y>2.0000</Y>
+          <Z>2.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4325</R>
+          <G>0.4325</G>
+          <B>0.4325</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">2</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>128.5000</X>
+          <Y>0.5000</Y>
+          <Z>77.0000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>-15.5000</X>
+          <Y>-2.0000</Y>
+          <Z>-19.5346</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>23.0000</X>
+          <Y>1.0000</Y>
+          <Z>2.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>23.0000</X>
+          <Y>1.0000</Y>
+          <Z>2.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4024</R>
+          <G>0.3923</G>
+          <B>0.3923</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>112.5000</X>
+          <Y>0.5000</Y>
+          <Z>79.5000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>-31.5000</X>
+          <Y>-2.0000</Y>
+          <Z>-17.0346</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>5.0000</X>
+          <Y>1.0000</Y>
+          <Z>3.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>5.0000</X>
+          <Y>1.0000</Y>
+          <Z>3.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4325</R>
+          <G>0.4325</G>
+          <B>0.4325</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>116.0000</X>
+          <Y>0.5000</Y>
+          <Z>78.5000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>-28.0000</X>
+          <Y>-2.0000</Y>
+          <Z>-18.0346</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>2.0000</X>
+          <Y>1.0000</Y>
+          <Z>5.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>2.0000</X>
+          <Y>1.0000</Y>
+          <Z>5.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4325</R>
+          <G>0.4325</G>
+          <B>0.4325</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>107.5000</X>
+          <Y>1.0000</Y>
+          <Z>78.5000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>-36.5000</X>
+          <Y>-1.5000</Y>
+          <Z>-18.0346</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>5.0000</X>
+          <Y>2.0000</Y>
+          <Z>5.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>5.0000</X>
+          <Y>2.0000</Y>
+          <Z>5.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4961</R>
+          <G>0.4961</G>
+          <B>0.4961</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>107.0000</X>
+          <Y>0.5000</Y>
+          <Z>82.0000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>-37.0000</X>
+          <Y>-2.0000</Y>
+          <Z>-14.5346</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>12.0000</X>
+          <Y>1.0000</Y>
+          <Z>2.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>12.0000</X>
+          <Y>1.0000</Y>
+          <Z>2.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4325</R>
+          <G>0.4325</G>
+          <B>0.4325</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>107.5000</X>
+          <Y>1.0000</Y>
+          <Z>78.5000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>-36.5000</X>
+          <Y>-1.5000</Y>
+          <Z>-18.0346</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>5.0000</X>
+          <Y>2.0000</Y>
+          <Z>5.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>5.0000</X>
+          <Y>2.0000</Y>
+          <Z>5.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4325</R>
+          <G>0.4325</G>
+          <B>0.4325</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>143.0000</X>
+          <Y>0.5000</Y>
+          <Z>79.5000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>-1.0000</X>
+          <Y>-2.0000</Y>
+          <Z>-17.0346</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>6.0000</X>
+          <Y>1.0000</Y>
+          <Z>3.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>6.0000</X>
+          <Y>1.0000</Y>
+          <Z>3.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4325</R>
+          <G>0.4325</G>
+          <B>0.4325</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>142.0000</X>
+          <Y>1.0000</Y>
+          <Z>77.0000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>-2.0000</X>
+          <Y>-1.5000</Y>
+          <Z>-19.5346</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>4.0000</X>
+          <Y>2.0000</Y>
+          <Z>2.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>4.0000</X>
+          <Y>2.0000</Y>
+          <Z>2.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4325</R>
+          <G>0.4325</G>
+          <B>0.4325</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>145.0000</X>
+          <Y>1.0000</Y>
+          <Z>75.0000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>1.0000</X>
+          <Y>-1.5000</Y>
+          <Z>-21.5346</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>2.0000</X>
+          <Y>2.0000</Y>
+          <Z>6.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>2.0000</X>
+          <Y>2.0000</Y>
+          <Z>6.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Model">
+      <Properties>
+        <vector3 name="Position">
+          <X>141.0000</X>
+          <Y>0.5000</Y>
+          <Z>99.0000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>-3.0000</X>
+          <Y>-2.0000</Y>
+          <Z>2.4654</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>1.0000</X>
+          <Y>1.0000</Y>
+          <Z>1.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>1.0000</X>
+          <Y>1.0000</Y>
+          <Z>1.0000</Z>
+        </vector3>
+        <string name="Name">Frozen lake</string>
+      </Properties>
+      <Item class="Part">
+        <Properties>
+          <color name="Color">
+            <R>0.7546</R>
+            <G>0.8911</G>
+            <B>0.8950</B>
+            <A>1.0000</A>
+          </color>
+          <boolean name="Anchored">true</boolean>
+          <boolean name="CanCollide">true</boolean>
+          <boolean name="IsSpawn">false</boolean>
+          <int name="Shape">0</int>
+          <int name="Material">10</int>
+          <vector3 name="Velocity">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <float name="Drag">0.0000</float>
+          <float name="AngularDrag">0.0000</float>
+          <float name="Mass">1.0000</float>
+          <boolean name="UseGravity">true</boolean>
+          <float name="Bounciness">0.0000</float>
+          <float name="Friction">0.0000</float>
+          <int name="FrictionCombine">0</int>
+          <int name="BounceCombine">0</int>
+          <boolean name="CastShadows">true</boolean>
+          <vector3 name="Position">
+            <X>175.0000</X>
+            <Y>0.5000</Y>
+            <Z>81.0000</Z>
+          </vector3>
+          <vector3 name="Rotation">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="LocalPosition">
+            <X>34.0000</X>
+            <Y>0.0000</Y>
+            <Z>-18.0000</Z>
+          </vector3>
+          <vector3 name="LocalRotation">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="Size">
+            <X>8.0000</X>
+            <Y>1.0000</Y>
+            <Z>16.0000</Z>
+          </vector3>
+          <vector3 name="LocalSize">
+            <X>8.0000</X>
+            <Y>1.0000</Y>
+            <Z>16.0000</Z>
+          </vector3>
+          <string name="Name">Brick</string>
+        </Properties>
+      </Item>
+      <Item class="Part">
+        <Properties>
+          <color name="Color">
+            <R>0.7546</R>
+            <G>0.8911</G>
+            <B>0.8950</B>
+            <A>1.0000</A>
+          </color>
+          <boolean name="Anchored">true</boolean>
+          <boolean name="CanCollide">true</boolean>
+          <boolean name="IsSpawn">false</boolean>
+          <int name="Shape">0</int>
+          <int name="Material">10</int>
+          <vector3 name="Velocity">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <float name="Drag">0.0000</float>
+          <float name="AngularDrag">0.0000</float>
+          <float name="Mass">1.0000</float>
+          <boolean name="UseGravity">true</boolean>
+          <float name="Bounciness">0.0000</float>
+          <float name="Friction">0.0000</float>
+          <int name="FrictionCombine">0</int>
+          <int name="BounceCombine">0</int>
+          <boolean name="CastShadows">true</boolean>
+          <vector3 name="Position">
+            <X>173.5000</X>
+            <Y>0.5000</Y>
+            <Z>92.0000</Z>
+          </vector3>
+          <vector3 name="Rotation">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="LocalPosition">
+            <X>32.5000</X>
+            <Y>0.0000</Y>
+            <Z>-7.0000</Z>
+          </vector3>
+          <vector3 name="LocalRotation">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="Size">
+            <X>5.0000</X>
+            <Y>1.0000</Y>
+            <Z>6.0000</Z>
+          </vector3>
+          <vector3 name="LocalSize">
+            <X>5.0000</X>
+            <Y>1.0000</Y>
+            <Z>6.0000</Z>
+          </vector3>
+          <string name="Name">Brick</string>
+        </Properties>
+      </Item>
+      <Item class="Part">
+        <Properties>
+          <color name="Color">
+            <R>0.7546</R>
+            <G>0.8911</G>
+            <B>0.8950</B>
+            <A>1.0000</A>
+          </color>
+          <boolean name="Anchored">true</boolean>
+          <boolean name="CanCollide">true</boolean>
+          <boolean name="IsSpawn">false</boolean>
+          <int name="Shape">0</int>
+          <int name="Material">10</int>
+          <vector3 name="Velocity">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <float name="Drag">0.0000</float>
+          <float name="AngularDrag">0.0000</float>
+          <float name="Mass">1.0000</float>
+          <boolean name="UseGravity">true</boolean>
+          <float name="Bounciness">0.0000</float>
+          <float name="Friction">0.0000</float>
+          <int name="FrictionCombine">0</int>
+          <int name="BounceCombine">0</int>
+          <boolean name="CastShadows">true</boolean>
+          <vector3 name="Position">
+            <X>173.0000</X>
+            <Y>0.5000</Y>
+            <Z>107.0000</Z>
+          </vector3>
+          <vector3 name="Rotation">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="LocalPosition">
+            <X>32.0000</X>
+            <Y>0.0000</Y>
+            <Z>8.0000</Z>
+          </vector3>
+          <vector3 name="LocalRotation">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="Size">
+            <X>4.0000</X>
+            <Y>1.0000</Y>
+            <Z>16.0000</Z>
+          </vector3>
+          <vector3 name="LocalSize">
+            <X>4.0000</X>
+            <Y>1.0000</Y>
+            <Z>16.0000</Z>
+          </vector3>
+          <string name="Name">Brick</string>
+        </Properties>
+      </Item>
+      <Item class="Part">
+        <Properties>
+          <color name="Color">
+            <R>0.7546</R>
+            <G>0.8911</G>
+            <B>0.8950</B>
+            <A>1.0000</A>
+          </color>
+          <boolean name="Anchored">true</boolean>
+          <boolean name="CanCollide">true</boolean>
+          <boolean name="IsSpawn">false</boolean>
+          <int name="Shape">0</int>
+          <int name="Material">10</int>
+          <vector3 name="Velocity">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <float name="Drag">0.0000</float>
+          <float name="AngularDrag">0.0000</float>
+          <float name="Mass">1.0000</float>
+          <boolean name="UseGravity">true</boolean>
+          <float name="Bounciness">0.0000</float>
+          <float name="Friction">0.0000</float>
+          <int name="FrictionCombine">0</int>
+          <int name="BounceCombine">0</int>
+          <boolean name="CastShadows">true</boolean>
+          <vector3 name="Position">
+            <X>158.5000</X>
+            <Y>0.5000</Y>
+            <Z>87.0000</Z>
+          </vector3>
+          <vector3 name="Rotation">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="LocalPosition">
+            <X>17.5000</X>
+            <Y>0.0000</Y>
+            <Z>-12.0000</Z>
+          </vector3>
+          <vector3 name="LocalRotation">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="Size">
+            <X>25.0000</X>
+            <Y>1.0000</Y>
+            <Z>20.0000</Z>
+          </vector3>
+          <vector3 name="LocalSize">
+            <X>25.0000</X>
+            <Y>1.0000</Y>
+            <Z>20.0000</Z>
+          </vector3>
+          <string name="Name">Brick</string>
+        </Properties>
+      </Item>
+      <Item class="Part">
+        <Properties>
+          <color name="Color">
+            <R>0.7546</R>
+            <G>0.8911</G>
+            <B>0.8950</B>
+            <A>1.0000</A>
+          </color>
+          <boolean name="Anchored">true</boolean>
+          <boolean name="CanCollide">true</boolean>
+          <boolean name="IsSpawn">false</boolean>
+          <int name="Shape">0</int>
+          <int name="Material">10</int>
+          <vector3 name="Velocity">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <float name="Drag">0.0000</float>
+          <float name="AngularDrag">0.0000</float>
+          <float name="Mass">1.0000</float>
+          <boolean name="UseGravity">true</boolean>
+          <float name="Bounciness">0.0000</float>
+          <float name="Friction">0.0000</float>
+          <int name="FrictionCombine">0</int>
+          <int name="BounceCombine">0</int>
+          <boolean name="CastShadows">true</boolean>
+          <vector3 name="Position">
+            <X>143.0000</X>
+            <Y>0.5000</Y>
+            <Z>90.0000</Z>
+          </vector3>
+          <vector3 name="Rotation">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="LocalPosition">
+            <X>2.0000</X>
+            <Y>0.0000</Y>
+            <Z>-9.0000</Z>
+          </vector3>
+          <vector3 name="LocalRotation">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="Size">
+            <X>6.0000</X>
+            <Y>1.0000</Y>
+            <Z>18.0000</Z>
+          </vector3>
+          <vector3 name="LocalSize">
+            <X>6.0000</X>
+            <Y>1.0000</Y>
+            <Z>18.0000</Z>
+          </vector3>
+          <string name="Name">Brick</string>
+        </Properties>
+      </Item>
+      <Item class="Part">
+        <Properties>
+          <color name="Color">
+            <R>0.7546</R>
+            <G>0.8911</G>
+            <B>0.8950</B>
+            <A>1.0000</A>
+          </color>
+          <boolean name="Anchored">true</boolean>
+          <boolean name="CanCollide">true</boolean>
+          <boolean name="IsSpawn">false</boolean>
+          <int name="Shape">0</int>
+          <int name="Material">10</int>
+          <vector3 name="Velocity">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <float name="Drag">0.0000</float>
+          <float name="AngularDrag">0.0000</float>
+          <float name="Mass">1.0000</float>
+          <boolean name="UseGravity">true</boolean>
+          <float name="Bounciness">0.0000</float>
+          <float name="Friction">0.0000</float>
+          <int name="FrictionCombine">0</int>
+          <int name="BounceCombine">0</int>
+          <boolean name="CastShadows">true</boolean>
+          <vector3 name="Position">
+            <X>144.0000</X>
+            <Y>0.5000</Y>
+            <Z>110.5000</Z>
+          </vector3>
+          <vector3 name="Rotation">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="LocalPosition">
+            <X>3.0000</X>
+            <Y>0.0000</Y>
+            <Z>11.5000</Z>
+          </vector3>
+          <vector3 name="LocalRotation">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="Size">
+            <X>4.0000</X>
+            <Y>1.0000</Y>
+            <Z>23.0000</Z>
+          </vector3>
+          <vector3 name="LocalSize">
+            <X>4.0000</X>
+            <Y>1.0000</Y>
+            <Z>23.0000</Z>
+          </vector3>
+          <string name="Name">Brick</string>
+        </Properties>
+      </Item>
+      <Item class="Part">
+        <Properties>
+          <color name="Color">
+            <R>0.7546</R>
+            <G>0.8911</G>
+            <B>0.8950</B>
+            <A>1.0000</A>
+          </color>
+          <boolean name="Anchored">true</boolean>
+          <boolean name="CanCollide">true</boolean>
+          <boolean name="IsSpawn">false</boolean>
+          <int name="Shape">0</int>
+          <int name="Material">10</int>
+          <vector3 name="Velocity">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <float name="Drag">0.0000</float>
+          <float name="AngularDrag">0.0000</float>
+          <float name="Mass">1.0000</float>
+          <boolean name="UseGravity">true</boolean>
+          <float name="Bounciness">0.0000</float>
+          <float name="Friction">0.0000</float>
+          <int name="FrictionCombine">0</int>
+          <int name="BounceCombine">0</int>
+          <boolean name="CastShadows">true</boolean>
+          <vector3 name="Position">
+            <X>158.5000</X>
+            <Y>0.5000</Y>
+            <Z>107.0000</Z>
+          </vector3>
+          <vector3 name="Rotation">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="LocalPosition">
+            <X>17.5000</X>
+            <Y>0.0000</Y>
+            <Z>8.0000</Z>
+          </vector3>
+          <vector3 name="LocalRotation">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="Size">
+            <X>25.0000</X>
+            <Y>1.0000</Y>
+            <Z>20.0000</Z>
+          </vector3>
+          <vector3 name="LocalSize">
+            <X>25.0000</X>
+            <Y>1.0000</Y>
+            <Z>20.0000</Z>
+          </vector3>
+          <string name="Name">Brick</string>
+        </Properties>
+      </Item>
+      <Item class="Part">
+        <Properties>
+          <color name="Color">
+            <R>0.7546</R>
+            <G>0.8911</G>
+            <B>0.8950</B>
+            <A>1.0000</A>
+          </color>
+          <boolean name="Anchored">true</boolean>
+          <boolean name="CanCollide">true</boolean>
+          <boolean name="IsSpawn">false</boolean>
+          <int name="Shape">0</int>
+          <int name="Material">10</int>
+          <vector3 name="Velocity">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <float name="Drag">0.0000</float>
+          <float name="AngularDrag">0.0000</float>
+          <float name="Mass">1.0000</float>
+          <boolean name="UseGravity">true</boolean>
+          <float name="Bounciness">0.0000</float>
+          <float name="Friction">0.0000</float>
+          <int name="FrictionCombine">0</int>
+          <int name="BounceCombine">0</int>
+          <boolean name="CastShadows">true</boolean>
+          <vector3 name="Position">
+            <X>129.5000</X>
+            <Y>0.5000</Y>
+            <Z>111.5000</Z>
+          </vector3>
+          <vector3 name="Rotation">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="LocalPosition">
+            <X>-11.5000</X>
+            <Y>0.0000</Y>
+            <Z>12.5000</Z>
+          </vector3>
+          <vector3 name="LocalRotation">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="Size">
+            <X>25.0000</X>
+            <Y>1.0000</Y>
+            <Z>27.0000</Z>
+          </vector3>
+          <vector3 name="LocalSize">
+            <X>25.0000</X>
+            <Y>1.0000</Y>
+            <Z>27.0000</Z>
+          </vector3>
+          <string name="Name">Brick</string>
+        </Properties>
+      </Item>
+      <Item class="Part">
+        <Properties>
+          <color name="Color">
+            <R>0.7546</R>
+            <G>0.8911</G>
+            <B>0.8950</B>
+            <A>1.0000</A>
+          </color>
+          <boolean name="Anchored">true</boolean>
+          <boolean name="CanCollide">true</boolean>
+          <boolean name="IsSpawn">false</boolean>
+          <int name="Shape">0</int>
+          <int name="Material">10</int>
+          <vector3 name="Velocity">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <float name="Drag">0.0000</float>
+          <float name="AngularDrag">0.0000</float>
+          <float name="Mass">1.0000</float>
+          <boolean name="UseGravity">true</boolean>
+          <float name="Bounciness">0.0000</float>
+          <float name="Friction">0.0000</float>
+          <int name="FrictionCombine">0</int>
+          <int name="BounceCombine">0</int>
+          <boolean name="CastShadows">true</boolean>
+          <vector3 name="Position">
+            <X>115.0000</X>
+            <Y>0.5000</Y>
+            <Z>110.5000</Z>
+          </vector3>
+          <vector3 name="Rotation">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="LocalPosition">
+            <X>-26.0000</X>
+            <Y>0.0000</Y>
+            <Z>11.5000</Z>
+          </vector3>
+          <vector3 name="LocalRotation">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="Size">
+            <X>4.0000</X>
+            <Y>1.0000</Y>
+            <Z>23.0000</Z>
+          </vector3>
+          <vector3 name="LocalSize">
+            <X>4.0000</X>
+            <Y>1.0000</Y>
+            <Z>23.0000</Z>
+          </vector3>
+          <string name="Name">Brick</string>
+        </Properties>
+      </Item>
+      <Item class="Part">
+        <Properties>
+          <color name="Color">
+            <R>0.7546</R>
+            <G>0.8911</G>
+            <B>0.8950</B>
+            <A>1.0000</A>
+          </color>
+          <boolean name="Anchored">true</boolean>
+          <boolean name="CanCollide">true</boolean>
+          <boolean name="IsSpawn">false</boolean>
+          <int name="Shape">0</int>
+          <int name="Material">10</int>
+          <vector3 name="Velocity">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <float name="Drag">0.0000</float>
+          <float name="AngularDrag">0.0000</float>
+          <float name="Mass">1.0000</float>
+          <boolean name="UseGravity">true</boolean>
+          <float name="Bounciness">0.0000</float>
+          <float name="Friction">0.0000</float>
+          <int name="FrictionCombine">0</int>
+          <int name="BounceCombine">0</int>
+          <boolean name="CastShadows">true</boolean>
+          <vector3 name="Position">
+            <X>128.5000</X>
+            <Y>0.5000</Y>
+            <Z>88.0000</Z>
+          </vector3>
+          <vector3 name="Rotation">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="LocalPosition">
+            <X>-12.5000</X>
+            <Y>0.0000</Y>
+            <Z>-11.0000</Z>
+          </vector3>
+          <vector3 name="LocalRotation">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="Size">
+            <X>23.0000</X>
+            <Y>1.0000</Y>
+            <Z>20.0000</Z>
+          </vector3>
+          <vector3 name="LocalSize">
+            <X>23.0000</X>
+            <Y>1.0000</Y>
+            <Z>20.0000</Z>
+          </vector3>
+          <string name="Name">Brick</string>
+        </Properties>
+      </Item>
+      <Item class="Part">
+        <Properties>
+          <color name="Color">
+            <R>0.7546</R>
+            <G>0.8911</G>
+            <B>0.8950</B>
+            <A>1.0000</A>
+          </color>
+          <boolean name="Anchored">true</boolean>
+          <boolean name="CanCollide">true</boolean>
+          <boolean name="IsSpawn">false</boolean>
+          <int name="Shape">0</int>
+          <int name="Material">10</int>
+          <vector3 name="Velocity">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <float name="Drag">0.0000</float>
+          <float name="AngularDrag">0.0000</float>
+          <float name="Mass">1.0000</float>
+          <boolean name="UseGravity">true</boolean>
+          <float name="Bounciness">0.0000</float>
+          <float name="Friction">0.6000</float>
+          <int name="FrictionCombine">0</int>
+          <int name="BounceCombine">0</int>
+          <boolean name="CastShadows">true</boolean>
+          <vector3 name="Position">
+            <X>115.0000</X>
+            <Y>0.5000</Y>
+            <Z>90.0000</Z>
+          </vector3>
+          <vector3 name="Rotation">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="LocalPosition">
+            <X>-26.0000</X>
+            <Y>0.0000</Y>
+            <Z>-9.0000</Z>
+          </vector3>
+          <vector3 name="LocalRotation">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="Size">
+            <X>4.0000</X>
+            <Y>1.0000</Y>
+            <Z>18.0000</Z>
+          </vector3>
+          <vector3 name="LocalSize">
+            <X>4.0000</X>
+            <Y>1.0000</Y>
+            <Z>18.0000</Z>
+          </vector3>
+          <string name="Name">Brick</string>
+        </Properties>
+      </Item>
+      <Item class="Part">
+        <Properties>
+          <color name="Color">
+            <R>0.7546</R>
+            <G>0.8911</G>
+            <B>0.8950</B>
+            <A>1.0000</A>
+          </color>
+          <boolean name="Anchored">true</boolean>
+          <boolean name="CanCollide">true</boolean>
+          <boolean name="IsSpawn">false</boolean>
+          <int name="Shape">0</int>
+          <int name="Material">10</int>
+          <vector3 name="Velocity">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <float name="Drag">0.0000</float>
+          <float name="AngularDrag">0.0000</float>
+          <float name="Mass">1.0000</float>
+          <boolean name="UseGravity">true</boolean>
+          <float name="Bounciness">0.0000</float>
+          <float name="Friction">0.0000</float>
+          <int name="FrictionCombine">0</int>
+          <int name="BounceCombine">0</int>
+          <boolean name="CastShadows">true</boolean>
+          <vector3 name="Position">
+            <X>108.0000</X>
+            <Y>0.5000</Y>
+            <Z>101.5000</Z>
+          </vector3>
+          <vector3 name="Rotation">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="LocalPosition">
+            <X>-33.0000</X>
+            <Y>0.0000</Y>
+            <Z>2.5000</Z>
+          </vector3>
+          <vector3 name="LocalRotation">
+            <X>0.0000</X>
+            <Y>0.0000</Y>
+            <Z>0.0000</Z>
+          </vector3>
+          <vector3 name="Size">
+            <X>10.0000</X>
+            <Y>1.0000</Y>
+            <Z>37.0000</Z>
+          </vector3>
+          <vector3 name="LocalSize">
+            <X>10.0000</X>
+            <Y>1.0000</Y>
+            <Z>37.0000</Z>
+          </vector3>
+          <string name="Name">Brick</string>
+        </Properties>
+      </Item>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4325</R>
+          <G>0.4325</G>
+          <B>0.4325</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>128.5000</X>
+          <Y>1.0000</Y>
+          <Z>75.0000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>-15.5000</X>
+          <Y>-1.5000</Y>
+          <Z>-21.5346</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>27.0000</X>
+          <Y>2.0000</Y>
+          <Z>2.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>27.0000</X>
+          <Y>2.0000</Y>
+          <Z>2.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4325</R>
+          <G>0.4325</G>
+          <B>0.4325</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>101.6628</X>
+          <Y>1.5002</Y>
+          <Z>95.5000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>-42.3372</X>
+          <Y>-0.9998</Y>
+          <Z>-1.0346</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>2.0000</X>
+          <Y>1.0005</Y>
+          <Z>1.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>2.0000</X>
+          <Y>1.0005</Y>
+          <Z>1.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4325</R>
+          <G>0.4325</G>
+          <B>0.4325</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>173.5000</X>
+          <Y>0.5000</Y>
+          <Z>97.0000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>29.5000</X>
+          <Y>-2.0000</Y>
+          <Z>0.4654</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>5.0000</X>
+          <Y>1.0000</Y>
+          <Z>4.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>5.0000</X>
+          <Y>1.0000</Y>
+          <Z>4.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4325</R>
+          <G>0.4325</G>
+          <B>0.4325</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">2</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>177.5000</X>
+          <Y>0.5000</Y>
+          <Z>96.0000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>33.5000</X>
+          <Y>-2.0000</Y>
+          <Z>-0.5346</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>3.0000</X>
+          <Y>1.0000</Y>
+          <Z>6.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>3.0000</X>
+          <Y>1.0000</Y>
+          <Z>6.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4325</R>
+          <G>0.4325</G>
+          <B>0.4325</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">2</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>169.5000</X>
+          <Y>1.0000</Y>
+          <Z>70.0000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>25.5000</X>
+          <Y>-1.5000</Y>
+          <Z>-26.5346</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>3.0000</X>
+          <Y>2.0000</Y>
+          <Z>4.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>3.0000</X>
+          <Y>2.0000</Y>
+          <Z>4.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4325</R>
+          <G>0.4325</G>
+          <B>0.4325</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">2</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>170.0000</X>
+          <Y>0.5000</Y>
+          <Z>74.5000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>26.0000</X>
+          <Y>-2.0000</Y>
+          <Z>-22.0346</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>2.0000</X>
+          <Y>1.0000</Y>
+          <Z>5.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>2.0000</X>
+          <Y>1.0000</Y>
+          <Z>5.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4961</R>
+          <G>0.4961</G>
+          <B>0.4961</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>157.5000</X>
+          <Y>1.0000</Y>
+          <Z>73.0000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>13.5000</X>
+          <Y>-1.5000</Y>
+          <Z>-23.5346</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>23.0000</X>
+          <Y>2.0000</Y>
+          <Z>2.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>23.0000</X>
+          <Y>2.0000</Y>
+          <Z>2.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.3649</R>
+          <G>0.3649</G>
+          <B>0.3649</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>157.5000</X>
+          <Y>0.5000</Y>
+          <Z>75.5000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>13.5000</X>
+          <Y>-2.0000</Y>
+          <Z>-21.0346</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>23.0000</X>
+          <Y>1.0000</Y>
+          <Z>3.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>23.0000</X>
+          <Y>1.0000</Y>
+          <Z>3.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.3649</R>
+          <G>0.3489</G>
+          <B>0.3489</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">2</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>182.0000</X>
+          <Y>2.5000</Y>
+          <Z>112.0000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>38.0000</X>
+          <Y>0.0000</Y>
+          <Z>15.4654</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>8.0000</X>
+          <Y>5.0000</Y>
+          <Z>8.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>8.0000</X>
+          <Y>5.0000</Y>
+          <Z>8.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4325</R>
+          <G>0.4325</G>
+          <B>0.4325</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">2</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>181.5000</X>
+          <Y>1.5002</Y>
+          <Z>119.0000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>37.5000</X>
+          <Y>-0.9998</Y>
+          <Z>22.4654</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>7.0000</X>
+          <Y>3.0005</Y>
+          <Z>6.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>7.0000</X>
+          <Y>3.0005</Y>
+          <Z>6.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4325</R>
+          <G>0.4325</G>
+          <B>0.4325</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>176.5000</X>
+          <Y>1.5002</Y>
+          <Z>118.0000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>32.5000</X>
+          <Y>-0.9998</Y>
+          <Z>21.4654</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>3.0000</X>
+          <Y>3.0005</Y>
+          <Z>6.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>3.0000</X>
+          <Y>3.0005</Y>
+          <Z>6.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4325</R>
+          <G>0.4325</G>
+          <B>0.4325</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>173.0000</X>
+          <Y>0.5000</Y>
+          <Z>116.0000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>29.0000</X>
+          <Y>-2.0000</Y>
+          <Z>19.4654</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>4.0000</X>
+          <Y>1.0000</Y>
+          <Z>2.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>4.0000</X>
+          <Y>1.0000</Y>
+          <Z>2.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4325</R>
+          <G>0.4325</G>
+          <B>0.4325</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>173.0000</X>
+          <Y>1.0002</Y>
+          <Z>120.0000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>29.0000</X>
+          <Y>-1.4998</Y>
+          <Z>23.4654</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>4.0000</X>
+          <Y>2.0005</Y>
+          <Z>6.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>4.0000</X>
+          <Y>2.0005</Y>
+          <Z>6.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4325</R>
+          <G>0.4325</G>
+          <B>0.4325</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>165.0000</X>
+          <Y>1.5002</Y>
+          <Z>119.5000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>21.0000</X>
+          <Y>-0.9998</Y>
+          <Z>22.9654</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>2.0000</X>
+          <Y>1.0005</Y>
+          <Z>1.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>2.0000</X>
+          <Y>1.0005</Y>
+          <Z>1.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4325</R>
+          <G>0.4325</G>
+          <B>0.4325</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>176.5000</X>
+          <Y>0.5000</Y>
+          <Z>107.0000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>32.5000</X>
+          <Y>-2.0000</Y>
+          <Z>10.4654</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>3.0000</X>
+          <Y>1.0000</Y>
+          <Z>16.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>3.0000</X>
+          <Y>1.0000</Y>
+          <Z>16.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.3774</R>
+          <G>0.3774</G>
+          <B>0.3774</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>158.5000</X>
+          <Y>0.5000</Y>
+          <Z>119.5000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>14.5000</X>
+          <Y>-2.0000</Y>
+          <Z>22.9654</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>25.0000</X>
+          <Y>1.0000</Y>
+          <Z>5.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>25.0000</X>
+          <Y>1.0000</Y>
+          <Z>5.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4325</R>
+          <G>0.4325</G>
+          <B>0.4325</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>148.4542</X>
+          <Y>2.4967</Y>
+          <Z>119.5000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>4.4542</X>
+          <Y>-0.0033</Y>
+          <Z>22.9654</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>1.0000</X>
+          <Y>1.0005</Y>
+          <Z>1.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>1.0000</X>
+          <Y>1.0005</Y>
+          <Z>1.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4325</R>
+          <G>0.4325</G>
+          <B>0.4325</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>149.6050</X>
+          <Y>1.5002</Y>
+          <Z>119.5000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>5.6050</X>
+          <Y>-0.9998</Y>
+          <Z>22.9654</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>2.0000</X>
+          <Y>1.0005</Y>
+          <Z>1.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>2.0000</X>
+          <Y>1.0005</Y>
+          <Z>1.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4325</R>
+          <G>0.4325</G>
+          <B>0.4325</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>147.5000</X>
+          <Y>1.5002</Y>
+          <Z>119.5000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>3.5000</X>
+          <Y>-0.9998</Y>
+          <Z>22.9654</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>1.0000</X>
+          <Y>1.0005</Y>
+          <Z>1.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>1.0000</X>
+          <Y>1.0005</Y>
+          <Z>1.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.5024</R>
+          <G>0.5024</G>
+          <B>0.5024</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">2</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>146.5000</X>
+          <Y>0.5000</Y>
+          <Z>123.5000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>2.5000</X>
+          <Y>-2.0000</Y>
+          <Z>26.9654</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>9.0000</X>
+          <Y>1.0000</Y>
+          <Z>3.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>9.0000</X>
+          <Y>1.0000</Y>
+          <Z>3.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.5711</R>
+          <G>0.5568</G>
+          <B>0.5568</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">2</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>111.0000</X>
+          <Y>0.5000</Y>
+          <Z>123.5000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>-33.0000</X>
+          <Y>-2.0000</Y>
+          <Z>26.9654</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>12.0000</X>
+          <Y>1.0000</Y>
+          <Z>3.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>12.0000</X>
+          <Y>1.0000</Y>
+          <Z>3.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.5086</R>
+          <G>0.4832</G>
+          <B>0.4832</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>107.0000</X>
+          <Y>0.5000</Y>
+          <Z>121.0000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>-37.0000</X>
+          <Y>-2.0000</Y>
+          <Z>24.4654</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>12.0000</X>
+          <Y>1.0000</Y>
+          <Z>2.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>12.0000</X>
+          <Y>1.0000</Y>
+          <Z>2.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.3524</R>
+          <G>0.3524</G>
+          <B>0.3524</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>181.5000</X>
+          <Y>1.0000</Y>
+          <Z>96.0000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>37.5000</X>
+          <Y>-1.5000</Y>
+          <Z>-0.5346</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>5.0000</X>
+          <Y>2.0000</Y>
+          <Z>6.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>5.0000</X>
+          <Y>2.0000</Y>
+          <Z>6.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.3899</R>
+          <G>0.3801</G>
+          <B>0.3801</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">2</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>181.0000</X>
+          <Y>1.0000</Y>
+          <Z>103.5000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>37.0000</X>
+          <Y>-1.5000</Y>
+          <Z>6.9654</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>6.0000</X>
+          <Y>2.0000</Y>
+          <Z>9.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>6.0000</X>
+          <Y>2.0000</Y>
+          <Z>9.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4325</R>
+          <G>0.4325</G>
+          <B>0.4325</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>180.0000</X>
+          <Y>1.0000</Y>
+          <Z>91.0000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>36.0000</X>
+          <Y>-1.5000</Y>
+          <Z>-5.5346</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>8.0000</X>
+          <Y>2.0000</Y>
+          <Z>4.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>8.0000</X>
+          <Y>2.0000</Y>
+          <Z>4.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.3149</R>
+          <G>0.3149</G>
+          <B>0.3149</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">2</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>182.5000</X>
+          <Y>1.0000</Y>
+          <Z>81.0000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>38.5000</X>
+          <Y>-1.5000</Y>
+          <Z>-15.5346</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>3.0000</X>
+          <Y>2.0000</Y>
+          <Z>16.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>3.0000</X>
+          <Y>2.0000</Y>
+          <Z>16.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.3711</R>
+          <G>0.3711</G>
+          <B>0.3711</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>180.0000</X>
+          <Y>0.5000</Y>
+          <Z>81.0000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>36.0000</X>
+          <Y>-2.0000</Y>
+          <Z>-15.5346</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>2.0000</X>
+          <Y>1.0000</Y>
+          <Z>16.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>2.0000</X>
+          <Y>1.0000</Y>
+          <Z>16.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4325</R>
+          <G>0.4325</G>
+          <B>0.4325</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>176.0000</X>
+          <Y>1.0000</Y>
+          <Z>67.0000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>32.0000</X>
+          <Y>-1.5000</Y>
+          <Z>-29.5346</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>10.0000</X>
+          <Y>2.0000</Y>
+          <Z>2.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>10.0000</X>
+          <Y>2.0000</Y>
+          <Z>2.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.3586</R>
+          <G>0.3317</G>
+          <B>0.3317</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>176.0000</X>
+          <Y>0.5000</Y>
+          <Z>70.5000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>32.0000</X>
+          <Y>-2.0000</Y>
+          <Z>-26.0346</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>10.0000</X>
+          <Y>1.0000</Y>
+          <Z>5.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>10.0000</X>
+          <Y>1.0000</Y>
+          <Z>5.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.5899</R>
+          <G>0.5825</G>
+          <B>0.5825</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>101.0000</X>
+          <Y>0.5000</Y>
+          <Z>101.5000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>-43.0000</X>
+          <Y>-2.0000</Y>
+          <Z>4.9654</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>4.0000</X>
+          <Y>1.0000</Y>
+          <Z>37.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>4.0000</X>
+          <Y>1.0000</Y>
+          <Z>37.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4325</R>
+          <G>0.4325</G>
+          <B>0.4325</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>127.5000</X>
+          <Y>0.5000</Y>
+          <Z>126.0346</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>-16.5000</X>
+          <Y>-2.0000</Y>
+          <Z>29.5000</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>29.0000</X>
+          <Y>1.0000</Y>
+          <Z>2.0691</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>29.0000</X>
+          <Y>1.0000</Y>
+          <Z>2.0691</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.3711</R>
+          <G>0.3711</G>
+          <B>0.3711</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>186.5000</X>
+          <Y>1.5000</Y>
+          <Z>98.5000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>42.5000</X>
+          <Y>-1.0000</Y>
+          <Z>1.9654</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>5.0000</X>
+          <Y>3.0000</Y>
+          <Z>19.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>5.0000</X>
+          <Y>3.0000</Y>
+          <Z>19.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.3836</R>
+          <G>0.3836</G>
+          <B>0.3836</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>184.5000</X>
+          <Y>1.0000</Y>
+          <Z>70.0000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>40.5000</X>
+          <Y>-1.5000</Y>
+          <Z>-26.5346</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>7.0000</X>
+          <Y>2.0000</Y>
+          <Z>6.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>7.0000</X>
+          <Y>2.0000</Y>
+          <Z>6.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4325</R>
+          <G>0.4325</G>
+          <B>0.4325</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">2</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>186.5000</X>
+          <Y>2.0000</Y>
+          <Z>84.5000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>42.5000</X>
+          <Y>-0.5000</Y>
+          <Z>-12.0346</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>5.0000</X>
+          <Y>4.0000</Y>
+          <Z>9.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>5.0000</X>
+          <Y>4.0000</Y>
+          <Z>9.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+    <Item class="Part">
+      <Properties>
+        <color name="Color">
+          <R>0.4325</R>
+          <G>0.4325</G>
+          <B>0.4325</B>
+          <A>1.0000</A>
+        </color>
+        <boolean name="Anchored">true</boolean>
+        <boolean name="CanCollide">true</boolean>
+        <boolean name="IsSpawn">false</boolean>
+        <int name="Shape">0</int>
+        <int name="Material">8</int>
+        <vector3 name="Velocity">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <float name="Drag">0.0000</float>
+        <float name="AngularDrag">0.0000</float>
+        <float name="Mass">1.0000</float>
+        <boolean name="UseGravity">true</boolean>
+        <float name="Bounciness">0.0000</float>
+        <float name="Friction">0.6000</float>
+        <int name="FrictionCombine">0</int>
+        <int name="BounceCombine">0</int>
+        <boolean name="CastShadows">true</boolean>
+        <vector3 name="Position">
+          <X>186.5000</X>
+          <Y>1.5000</Y>
+          <Z>76.5000</Z>
+        </vector3>
+        <vector3 name="Rotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="LocalPosition">
+          <X>42.5000</X>
+          <Y>-1.0000</Y>
+          <Z>-20.0346</Z>
+        </vector3>
+        <vector3 name="LocalRotation">
+          <X>0.0000</X>
+          <Y>0.0000</Y>
+          <Z>0.0000</Z>
+        </vector3>
+        <vector3 name="Size">
+          <X>5.0000</X>
+          <Y>3.0000</Y>
+          <Z>7.0000</Z>
+        </vector3>
+        <vector3 name="LocalSize">
+          <X>5.0000</X>
+          <Y>3.0000</Y>
+          <Z>7.0000</Z>
+        </vector3>
+        <string name="Name">Brick</string>
+      </Properties>
+    </Item>
+  </Item>
+</model>
